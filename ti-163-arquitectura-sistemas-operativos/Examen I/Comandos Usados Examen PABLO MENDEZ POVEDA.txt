@@ -1,0 +1,10 @@
+
+./palabras.out Archivo_Examen_Lectura.txt 50 1000 Archivo_Examen_Salida.txt Nh 
+
+./palabras.out Archivo_Examen_Lectura.txt 50 1000 Archivo_Examen_Salida.txt h       
+
+./palabras.out Archivo_Examen_Lectura.txt T Archivo_Examen_Salida.txt h  
+
+./palabras.out Archivo_Examen_Lectura.txt T Archivo_Examen_Salida.txt Nh  
+
+strace -o salidaParteII.txt -t -e trace=close ./palabras.out Archivo_Examen_Lectura.txt T Archivo_Examen_Salida.txt h 

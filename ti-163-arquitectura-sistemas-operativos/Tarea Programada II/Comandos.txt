@@ -1,0 +1,3 @@
+gcc tareapablo.c -o coseno -lm  
+./coseno.out 2.33 3 sal_cos.txt
+./coseno.out 1.54 4 sal_cos.txt

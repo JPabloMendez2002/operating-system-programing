@@ -1,0 +1,10 @@
+-----COMANDO PARA COMPILAR
+gcc -pthread tarea4Pablo.c -o CalPI -lm
+
+-----COMANDO PARA EJECUTARLO
+
+NO HISTORICO 
+./CalPI 12 resultados.txt -u
+
+HISTORICO 
+./CalPI 12 resultados.txt -H

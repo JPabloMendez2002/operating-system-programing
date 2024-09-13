@@ -1,0 +1,12 @@
+Hilos generados: 12
+Vector cantidad de puntos: Vector_ptos [1598, 1665, 1542, 1699, 1801, 1721, 1698, 1994, 1816, 1992, 1705, 1713]
+Puntos dentro del círculo (5ta aprox.) = 17031
+Puntos totales generados (5ta aprox.) = 21735
+Primera aproximación de PI : 3.1343
+Segunda aproximación de PI : 3.1343
+Tercera aproximación de PI : 3.1342
+Cuarta aproximación de PI : 3.1341
+Quinta aproximación de PI : 3.1343
+Promedio del cálculo : 3.1342
+Desviación Estándar : 0.0001
+--------------------------------------

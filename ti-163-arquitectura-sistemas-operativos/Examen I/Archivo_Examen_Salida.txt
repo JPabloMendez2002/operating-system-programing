@@ -1,0 +1,1 @@
+Metodo No Historico()----> Total de palabras encontradas en el texto: 678

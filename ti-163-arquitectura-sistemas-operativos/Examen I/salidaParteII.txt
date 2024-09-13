@@ -1,0 +1,14 @@
+----------COMANDO UTILIZADO
+
+strace -o salidaParteII.txt -t -e trace=close ./palabras.out Archivo_Examen_Lectura.txt T Archivo_Examen_Salida.txt h
+
+---------------------------
+
+
+20:47:05 close(3)                       = 0
+20:47:05 close(3)                       = 0
+20:47:05 close(3)                       = 0
+20:47:05 close(3)                       = 0
+20:47:05 close(4)                       = 0
+20:47:05 --- SIGABRT {si_signo=SIGABRT, si_code=SI_TKILL, si_pid=181, si_uid=1000} ---
+20:47:05 +++ killed by SIGABRT +++

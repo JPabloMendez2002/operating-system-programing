@@ -1,0 +1,5 @@
+====================================COMANDO PARA COMPILAR
+gcc examenPablo.c -pthread -o sudoku
+
+====================================COMANDO PARA COMPILAR
+./sudoku sudoku.txt

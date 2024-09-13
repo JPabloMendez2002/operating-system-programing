@@ -1,0 +1,5 @@
+strace -o salida.txt -c -e trace=open,read,write,lseek,close ./vocales.out BigData.txt T Rest.txt h
+strace -o salida.txt -e trace=openat,read,write,lseek,close ./vocales.out BigData.txt T Rest.txt h
+
+./vocales.out BigData.txt 10 120 Rest.txt h    
+./vocales.out BigData.txt T Rest.txt h    

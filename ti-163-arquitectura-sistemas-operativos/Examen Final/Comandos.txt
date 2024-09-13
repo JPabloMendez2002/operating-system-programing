@@ -1,0 +1,10 @@
+-----COMANDO PARA COMPILAR
+gcc -pthread examenPablo.c -o CalPI.out -lm
+
+-----COMANDO PARA EJECUTARLO
+
+NO HISTORICO 
+./CalPI.out 22 SalPI.txt -u   
+
+HISTORICO 
+./CalPI.out 22 SalPI.txt -H   

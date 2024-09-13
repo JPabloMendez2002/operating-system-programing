@@ -1,0 +1,11 @@
+ El coseno de 2.330000 con una precisión de 3 elementos es: -0.48641.
+ 
+ El coseno de 2.330000 con una precisión de 4 elementos es: -0.70864.
+
+ El coseno de 1.540000 con una precisión de 5 elementos es: 0.03081.
+  
+ El coseno de 1.540000 con una precisión de 4 elementos es: 0.03003.
+
+ El coseno de 5.600000 con una precisión de 6 elementos es: -0.90848.
+ 
+ El coseno de 5.600000 con una precisión de 3 elementos es: 26.29707.

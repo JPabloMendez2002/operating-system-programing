@@ -1,0 +1,28 @@
+Qué es la Inteligencia Artificial y cómo influye en nuestra vida
+ 
+Evolución de la Inteligencia Artificial
+Desde la Antigüedad, la especie humana ha soñado con la máquina, con diseñar y construir ingenios que le hicieran más fáciles las tareas más frecuentes. Incluso para el mero entretenimiento se desarrollaron mecanismos autómatas que reproducían figuras de seres vivos y realizaban movimientos de forma repetitiva.
+
+A finales del siglo XV personajes como Leonardo da Vinci esbozaron nuevos artificios, pero no consta que llegaran a materializarse. En cambio, en el XVII y XVIII no solo se proyectaron, si no que se construyeron. Fue finalmente en el XX cuando la robótica comenzó a extenderse enfocada hacia la actividad industrial.
+
+Además de la industria, las máquinas, transformaron otras actividades económicas y de la vida más allá de lo laboral. Y sin embargo, la auténtica revolución se produjo cuando el hombre afrontó el reto de aportar a los ingenios la capacidad de aprender, de razonar como podría hacerlo la especie humana, sacar sus propias conclusiones y actuar de forma autónoma.
+
+Muy lejos de imaginar a los robots humanoides de las películas de ficción, la ciencia –especialmente la informática- ha desarrollado otros ‘cerebros’.
+
+Pero vayamos por partes. La palabra robot tiene un origen checo y el primero en utilizarla fue el escritor Karel Capek en 1921 (ahora se cumple un siglo de su acuñación) y en su lengua original significa servidumbre o trabajo forzado. Por tanto, el robot es aquello destinado a realizar las tareas más duras al servicio del hombre.
+
+La robótica, por tanto, era mecánica y física; pero si se le aplica electrónica, matemáticas e informática aparece un nuevo tipo de robótica que ya tiene inteligencia, artificial, pero inteligencia. Como se ha descrito, los nuevos ingenios ya interpretan datos y situaciones; analizan problemas y aplican soluciones.
+Desde la década de los cuarenta del siglo pasado existe la computación, que no deja de ser una programación para que una máquina responda a una tarea previamente planificada. La Inteligencia Artificial (IA) va más allá y esa misma programación enseña a la máquina a dar sus propias respuestas tanto con los datos que se le han introducido como con la interacción con los usuarios y aplica el autoaprendizaje. Así, la definición de Inteligencia Artificial podría ser: Simulación de la inteligencia humana por parte de las máquinas.
+
+Un reto en este tipo de programación lo propuso en 1950 el matemático Alan Turing. “Un sistema es lo suficientemente inteligente si consigue hacerse pasar por humano ante las preguntas de un juez”. Este británico está considerado como uno de los padres de la computación, quien destacó por valorar que la categoría de una máquina podría juzgarse por su capacidad para responder como lo haría un humano. Es decir, no podría distinguirse entre una y otra
+
+Ejemplos
+En la vida diaria hay cientos de ejemplos de inteligencia artificial aunque no seamos conscientes de ello, desde la ubicación de los productos en el lineal de un supermercado a un coche autónomo. Veamos algunos de ellos.
+
+La vivienda inteligente
+Los termostatos para la refrigeración ya son inteligentes. Han tomado conocimiento de las personas que ocupan la zona, de la temperatura exterior y de cuáles son nuestras preferencias. El ‘cerebro’ del regulador dictará las órdenes precisas al sistema de calefacción o de frío para bajar o subir temperaturas.
+
+Asimismo en las viviendas, distintos sensores graban nuestras costumbres y la IA encenderá automáticamente la luz cuando sea la hora de levantarnos, nos recordará la toma de medicación o avisará a un sistema de emergencia si una persona no sigue sus pautas habituales.
+
+Asimismo, soltamos un artilugio al suelo (la aspiradora) y reconoce su espacio, sabe dónde está. Ha ‘memorizado’ previamente la sala y en su ‘cerebro’ ha introducido longitudes, mobiliario, alfombras. Es capaz de hacer su trabajo sobre un plano previamente elaborado por ella misma. Su dispositivo es inteligencia artificial.
+Los algoritmos son fundamentales para realizar estas tareas. La Real Academia de la Lengua define algoritmo como: “Conjunto ordenado y finito de operaciones que permite hallar la solución de problema”. O, lo que es lo mismo, los ‘casos’ que se ha enseñado a la computadora para que actúe de forma autónoma.

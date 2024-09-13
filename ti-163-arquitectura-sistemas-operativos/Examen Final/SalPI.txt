@@ -1,0 +1,12 @@
+Hilos generados: 22
+Vector cantidad de puntos: Vector_ptos [3125, 3079, 3978, 3505, 3763, 3321, 3933, 3754, 3341, 3972, 3679, 3368, 3597, 3923, 3070, 3029, 3812, 3861, 3074, 3854, 3276, 3012]
+Puntos dentro del círculo (5ta aprox.) = 61124
+Puntos totales generados (5ta aprox.) = 77725
+Primera aproximación de PI : 3.1456
+Segunda aproximación de PI : 3.1458
+Tercera aproximación de PI : 3.1457
+Cuarta aproximación de PI : 3.1456
+Quinta aproximación de PI : 3.1457
+Promedio del cálculo : 3.1457
+Desviación Estándar : 0.0001
+----------------------------------------->La Fecha y Hora local son: 2023-04-12 19:17:16
